@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "D8wGdha9xhtJ42RnhjjrbXq2hcLydyynFAiQJNyWsm7W",
+  "symbol": "MORY",
+  "name": "Mory",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/token-list/main/assets/mainnet/D8wGdha9xhtJ42RnhjjrbXq2hcLydyynFAiQJNyWsm7W.png",
+  "tags": ["meme"]
+}
